@@ -10,3 +10,6 @@ TODO.md
 *.rar
 
 /npm-debug.log
+
+# Ignore project settings directory added by WebStorm
+.idea/
